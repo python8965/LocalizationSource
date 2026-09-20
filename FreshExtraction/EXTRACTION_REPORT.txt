@@ -1,5 +1,0 @@
-UNITS: 9166 rows / 9173 DIC entries (9167 nonempty), 1 unresolved (1 nonempty, 0 empty), 565 CSV tokens absent from DIC [INCOMPLETE]
-INTERFACE_INGAME: 655 rows / 1442 DIC entries (1348 nonempty), 733 unresolved (693 nonempty, 40 empty), 1839 CSV tokens absent from DIC [INCOMPLETE]
-INTERFACE_OUTGAME: 533 rows / 1393 DIC entries (1334 nonempty), 820 unresolved (801 nonempty, 19 empty), 1961 CSV tokens absent from DIC [INCOMPLETE]
-COMPANIES: 9342 rows / 10468 DIC entries (10468 nonempty), 1126 unresolved (1126 nonempty, 0 empty), 0 CSV tokens absent from DIC [INCOMPLETE]
-PLATOONS: 8043 rows / 10476 DIC entries (10476 nonempty), 2433 unresolved (2433 nonempty, 0 empty), 0 CSV tokens absent from DIC [INCOMPLETE]
