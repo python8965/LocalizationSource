@@ -1,0 +1,5 @@
+UNITS: 9166 rows / 9173 DIC entries (9167 nonempty), 1 unresolved [INCOMPLETE]
+INTERFACE_INGAME: 655 rows / 1442 DIC entries (1348 nonempty), 733 unresolved [INCOMPLETE]
+INTERFACE_OUTGAME: 533 rows / 1393 DIC entries (1334 nonempty), 820 unresolved [INCOMPLETE]
+COMPANIES: 9342 rows / 10468 DIC entries (10468 nonempty), 1126 unresolved [INCOMPLETE]
+PLATOONS: 8043 rows / 10476 DIC entries (10476 nonempty), 2433 unresolved [INCOMPLETE]
